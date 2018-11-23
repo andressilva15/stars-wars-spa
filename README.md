@@ -1,7 +1,7 @@
 # Spa Stars Wars
 #Programacion Avanzada
 # Alumnos
-Casavovas Leandro, Rivero carla, Silva Andres
+Casanovas Leandro, Rivero Carla, Silva Andres
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
